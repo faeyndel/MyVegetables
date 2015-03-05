@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/styles/default/img/icon"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="200"
+   kind="dir"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="annuaire_no_img.jpg"
+   checksum="41155430ab174f93112e5b597ee0ddab"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.282000Z"/>
+<entry
+   name="arrowgreen.png"
+   checksum="1aaa628ded15f2f74ab5e058df41cd9e"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.257000Z"/>
+<entry
+   name="facebook.png"
+   checksum="1727143bfcef01e418d6f77061151122"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.246000Z"/>
+<entry
+   name="favicon.png"
+   checksum="df4704aae1f0c5e999fbfc079f1474a1"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"
+   prop-time="2013-05-24T05:48:00.279000Z"/>
+<entry
+   name="fb.jpg"
+   checksum="7ea694de3732e87e2295885ebf6d0bf2"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.274000Z"/>
+<entry
+   name="google.png"
+   checksum="c27d51787e848001ab8017df8d0401ba"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.261000Z"/>
+<entry
+   name="gp.jpg"
+   checksum="877309d0fc003c0152b92fc84838332f"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.238000Z"/>
+<entry
+   name="local.png"
+   checksum="fdd2443e2c338491ae086994f64f5a68"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.286000Z"/>
+<entry
+   name="logo.jpg"
+   checksum="59d07b4d2d0820f8b3d80fd0e4e4aee6"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.194000Z"/>
+<entry
+   name="marker.png"
+   checksum="9a64f8e707595b81874d18f29e7feac3"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.271000Z"/>
+<entry
+   name="mes_tables_vegetariennes.png"
+   checksum="091f2cb846ef60f4118b4727b97d9002"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.204000Z"/>
+<entry
+   name="partenaires.jpg"
+   checksum="baf07277c6e32e9052c7282cd06cef54"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.253000Z"/>
+<entry
+   name="partenaires.png"
+   checksum="81ed73515998163dc7e3307ab422c60b"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.267000Z"/>
+<entry
+   name="readmore.png"
+   checksum="4ba0bd5bf65388b64499889f55e9cd5d"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.222000Z"/>
+<entry
+   name="sm1.jpg"
+   checksum="f13146ad086dac893adb7f4aae0421db"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.199000Z"/>
+<entry
+   name="sm2.jpg"
+   checksum="bbed55d3dd7fcf2d8b2bfb5988f936f4"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.208000Z"/>
+<entry
+   name="sm3.jpg"
+   checksum="f6e230cc6246f9582e23cc92d7e75037"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.216000Z"/>
+<entry
+   name="twitter.jpg"
+   checksum="ca71240507d2d27fef3cd8a5b5915dc8"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.212000Z"/>
+<entry
+   name="twitter.png"
+   checksum="2e18dc72dbe6b58af672f348cac4e612"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.230000Z"/>
+</wc-entries>

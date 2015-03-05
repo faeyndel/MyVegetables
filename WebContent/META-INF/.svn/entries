@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="svn_esgi2013_java"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/META-INF"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="153"
+   kind="dir"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="MANIFEST.MF"
+   checksum="b10f37c8bb1803d98c127a01d1a71cc5"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+</wc-entries>

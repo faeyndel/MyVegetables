@@ -1,0 +1,31 @@
+<!-- Slider -->
+				<script type="text/javascript">
+					$(document).ready(function() {
+						$('#slider').s3Slider({
+							timeOut:5000 
+						});
+					});
+				</script>
+				<div id="slider">
+					<ul id="sliderContent">
+						<li class="sliderImage">
+							<a href="index.jsp"><img src="res/styles/default/img/images/slideshow/slideshow1.jpg" alt="1" /></a>
+							<span class="left"><strong>Loving Hut</strong><br />Le resto de plus chic et le plus v&eacute;g&eacute;tarien de la r&eacute;gion. N'h&eacute;sitez pas &agrave; y faire un tour !</span></li>
+						<li class="sliderImage">
+							<a href="index.jsp"><img src="res/styles/default/img/images/slideshow/slideshow2.jpg" alt="1" /></a>
+							<span class="left"><strong>V&eacute;g&eacute;burger</strong><br />le restaurant v&eacute;g&eacute;tarien proposant des hamburger au Tofu !</span></li>
+						<li class="sliderImage">
+							<a href="index.jsp"><img src="res/styles/default/img/images/slideshow/slideshow3.jpg" alt="1" /></a>
+							<span class="left"><strong>Title text 2</strong><br />Content text...</span></li>
+						<li class="sliderImage">
+							<a href="index.jsp"><img src="res/styles/default/img/images/slideshow/slideshow4.jpg" alt="1" /></a>
+							<span class="left"><strong>Title text 2</strong><br />Content text...</span></li>
+						<li class="sliderImage">
+							<a href="index.jsp"><img src="res/styles/default/img/images/slideshow/slideshow5.jpg" alt="1" /></a>
+							<span class="left"><strong>Title text 2</strong><br />Content text...</span></li>
+						<li class="sliderImage">
+							<a href="index.jsp"><img src="res/styles/default/img/images/slideshow/slideshow6.jpg" alt="1" /></a>
+							<span class="left"><strong>Title text 2</strong><br />Content text...</span></li>
+						<div class="clr sliderImage"></div>
+					</ul>
+				</div>

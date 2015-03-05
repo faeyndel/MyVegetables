@@ -1,0 +1,9 @@
+<div id="search">
+					<h2>Recherchez un restaurant v&eacute;g&eacute;tarien</h2>
+					<form method="post" action="Search">
+						<input type="text" name="Restaurant" placeholder="Restaurant" />
+						<input type="text" name="Adresse" placeholder="Adresse du restaurant" />
+						<input type="text" name="VilleCP" placeholder="Ville" />
+						<input type="submit" class="submit" value="Rechercher" />
+					</form>
+</div>

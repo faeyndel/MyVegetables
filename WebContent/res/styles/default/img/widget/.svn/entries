@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/styles/default/img/widget"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="212"
+   kind="dir"
+   committed-date="2013-05-23T11:18:57.202501Z"/>
+<entry
+   name="gmap.jpg"
+   checksum="6e4f544346495e216e3a53b4c45184a9"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:58.966000Z"/>
+<entry
+   name="pub.jpg"
+   checksum="e5916e7ba5318d826ccc6fdd5d1b800e"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:59.066000Z"/>
+<entry
+   name="pub_2.jpg"
+   checksum="bb34491fe5ad147ac6e9bd61a116a6c3"
+   last-author="seiya"
+   committed-rev="212"
+   text-time="2013-05-23T11:18:57.202000Z"
+   kind="file"
+   committed-date="2013-05-23T11:18:57.202501Z"
+   prop-time="2013-05-24T05:47:59.138000Z"/>
+<entry
+   name="slider.jpg"
+   checksum="5d9f9243920b3eb08418a18c91289969"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:58.850000Z"/>
+<entry
+   name="sliderdetail.jpg"
+   checksum="270c1e2f8474f9449c9fba20210b5d3c"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:59.046000Z"/>
+</wc-entries>

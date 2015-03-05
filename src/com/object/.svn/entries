@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="svn_esgi2013_java"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/src/com/object"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="215"
+   kind="dir"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="Commentaire.java"
+   checksum="026ee8ca590b7cc6cda62208dfa202b9"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="Communication.java"
+   checksum="430500b3cf41a75521e1fd85783d8b3f"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="Food_Type.java"
+   checksum="d255536ff9b4dc826c7101d088700122"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="Req_Resto.java"
+   checksum="6934f363fccd586f7d0f25089c163f50"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="Resto.java"
+   checksum="72544404b8cef59485c65a6354a459ed"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="Resto_Account.java"
+   checksum="076bfcedd22eb279ad403b8c8541551b"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="Resto_Horaire.java"
+   checksum="1006e1072933006a8bda4bbbf17d2c2a"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="Resto_Menu.java"
+   checksum="adf5a45d2b6a88c2379d7812e81123e2"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="Resto_Photo.java"
+   checksum="b4a236f2263473cbd4ee33c8c6644c30"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="Resto_Profil.java"
+   checksum="28b6fa8a5ced938f49f2bdf75bba42e8"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="Result_User.java"
+   checksum="a238f5d7d2de96dec4d1d2a129d0a67e"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="User.java"
+   checksum="f911349753ecc0916c63790a7b38bba4"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+</wc-entries>

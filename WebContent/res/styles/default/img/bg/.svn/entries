@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/styles/default/img/bg"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="193"
+   kind="dir"
+   committed-date="2013-05-18T21:14:13.400689Z"/>
+<entry
+   name="bgheader.png"
+   checksum="5d4621908573a859fdb3150b2a11a6d1"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:48:00.169000Z"/>
+</wc-entries>

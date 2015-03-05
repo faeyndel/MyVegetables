@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/js/tinymce/js/tinymce/plugins/media"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="202"
+   kind="dir"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="moxieplayer.swf"
+   checksum="9217cea72c76c361fa5033526712284e"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.531000Z"/>
+<entry
+   name="plugin.min.js"
+   checksum="22dde29bdc543f64891945a5b361e7ed"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+</wc-entries>

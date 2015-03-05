@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/styles/default/img/images/slideshow"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="193"
+   kind="dir"
+   committed-date="2013-05-18T21:14:13.400689Z"/>
+<entry
+   name="slideshow1.jpg"
+   checksum="a2b96d6968f6858ad2f16115baf49cac"
+   last-author="seiya"
+   committed-rev="193"
+   text-time="2013-05-18T21:14:13.400000Z"
+   kind="file"
+   committed-date="2013-05-18T21:14:13.400689Z"
+   prop-time="2013-05-24T05:47:59.288000Z"/>
+<entry
+   name="slideshow2.jpg"
+   checksum="a06284a12fd740ddbe184afa6185f148"
+   last-author="seiya"
+   committed-rev="193"
+   text-time="2013-05-18T21:14:13.400000Z"
+   kind="file"
+   committed-date="2013-05-18T21:14:13.400689Z"
+   prop-time="2013-05-24T05:47:59.438000Z"/>
+<entry
+   name="slideshow3.jpg"
+   checksum="5e0b7e801cf27b44666d3c832653aa97"
+   last-author="seiya"
+   committed-rev="193"
+   text-time="2013-05-18T21:14:13.400000Z"
+   kind="file"
+   committed-date="2013-05-18T21:14:13.400689Z"
+   prop-time="2013-05-24T05:47:59.670000Z"/>
+<entry
+   name="slideshow4.jpg"
+   checksum="5513c6ad2553baa4c858c799e263c96a"
+   last-author="seiya"
+   committed-rev="193"
+   text-time="2013-05-18T21:14:13.400000Z"
+   kind="file"
+   committed-date="2013-05-18T21:14:13.400689Z"
+   prop-time="2013-05-24T05:47:59.791000Z"/>
+<entry
+   name="slideshow5.jpg"
+   checksum="02cd6d212021a53cf1001e3aeec0328c"
+   last-author="seiya"
+   committed-rev="193"
+   text-time="2013-05-18T21:14:13.400000Z"
+   kind="file"
+   committed-date="2013-05-18T21:14:13.400689Z"
+   prop-time="2013-05-24T05:47:59.922000Z"/>
+<entry
+   name="slideshow6.jpg"
+   checksum="2ba83ccc19fad9acc419d30fa5bdc8c7"
+   last-author="seiya"
+   committed-rev="193"
+   text-time="2013-05-18T21:14:13.400000Z"
+   kind="file"
+   committed-date="2013-05-18T21:14:13.400689Z"
+   prop-time="2013-05-24T05:48:00.083000Z"/>
+</wc-entries>

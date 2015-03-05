@@ -1,0 +1,142 @@
+/**
+ * RestoDao est la classe qui représente le modèle de restaurant.
+ * C'est à dire une classe avec un ensemble de méthodes appliquées 
+ * aux restaurants 
+ * Dans cette classe, on defintit toutes les méthodes sans les implémentées
+ * @author team MyVegetable
+ * @version 1.0
+ * 
+ */package com.model;
+
+import java.util.List;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+
+import com.object.Resto_Profil;
+import com.object.Resto_Photo;
+
+/**
+ * RestoDao est la classe qui représente le modèle d'un restaurant.
+ * C'est à dire une classe avec un ensemble de méthodes appliquée 
+ * aux restaurants 
+ * Dans cette classe, on definit toutes les méthodes sans les implémentées
+ * @author team MyVegetable
+ * @version 1.0
+ * 
+ */
+
+
+public interface RestoDao {
+	/**
+	 * Cette fonction permet à un restaurateur d'ajouter un restaurant et elle retourne un message de confirmation d'ajout
+	 * @param idUser
+	 * @param nom
+	 * @param adresse
+	 * @param ville
+	 * @param codepostale
+	 * @param tel
+	 * @param courriel
+	 * @param des
+	 * @param horaire
+	 * @param prix
+	 * @param url
+	 * @param siren
+	 * @param menu
+	 * @param Latitude
+	 * @param Longitude
+	 * @return message de confirmation
+	 */
+	String ajout_resto(int idUser, String nom,String adresse,String ville,int codepostale,String tel,String courriel,String des,String horaire,int prix,String url,String siren, String menu, String Latitude, String Longitude);
+	
+	/**
+	 * Récupération de l'id d'un utilisateur et retourne un message 
+	 * @param idUser
+	 * @return  message 
+	 */
+	String addRestoForm(int idUser);
+	/**
+	 * Cette fonction permet de mettre à jour les informations d'un restaurant et retourne un message de confirmation
+	 * @param nom
+	 * @param adresse
+	 * @param ville
+	 * @param codepostale
+	 * @param tel
+	 * @param courriel
+	 * @param des
+	 * @param horaire
+	 * @param prix
+	 * @param url
+	 * @param siren
+	 * @param menu
+	 * @param lattitude
+	 * @param longitude
+	 * @param lid
+	 * @return  message de confirmation
+	 */
+	String update_resto(String nom,String adresse,String ville,int codepostale,String tel,String courriel,String des,String horaire,int prix,String url,String siren, String menu, String lattitude, String longitude,int lid );
+	
+	/**
+	 * Cette fonction retourne la liste de restaurant
+	 * @return la liste de restaurant
+	 */
+	List <Resto_Profil> listeresto();
+	
+	/**
+	 * retourne la liste de restaurant d'un utilisateur de type particulier
+	 * @param id
+	 * @return liste de restaurant
+	 * @throws DAOException
+	 */
+	List <Resto_Profil> listerestoUser(int id) throws DAOException;
+	
+	/**
+	 * edition des informations d'un restaurant
+	 * @param id
+	 * @return
+	 * @throws DAOException
+	 */
+	Resto_Profil editer(int id ) throws DAOException;
+	/**
+	 * faire la recherche sur un restaurant passé en paramètre  et renvoie la liste de restaurant
+	 * @param restoName
+	 * @param restoAdress
+	 * @param restoCityZip
+	 * @return la liste de restaurants
+	 * @throws DAOException
+	 */
+	List <Resto_Profil> search( String restoName, String restoAdress, String restoCityZip) throws DAOException;
+	
+	
+	/**
+	 * retourne les photos  d'un restaurant passé en paramètre
+	 * @param lid
+	 * @return les photos d'un restaurants
+	 * @throws DAOException
+	 */
+	Resto_Photo getPhoto(int lid) throws DAOException;
+	
+    /**
+     * insertion des photos d'un restaurant 
+     * @return message de confirmation d'insertion
+     */
+	String insertPhoto( );
+	
+	/**
+	 * Récupération des informations des restaurants et conversion en format json 
+	 * @return liste des restaurants en format json
+	 * @throws DAOException
+	 * @throws JSONException
+	 */
+	JSONObject listRestoJson ( ) throws DAOException, JSONException ;
+	
+	/**
+	 * recupération des informations d'un restaurant selon l'id passé en paramètre
+	 * @param code
+	 * @return un restaurant
+	 * @throws DAOException
+	 */
+	Resto_Profil restoProfil(int code ) throws DAOException;
+	
+}

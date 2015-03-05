@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/js/tinymce/js/tinymce/plugins/emoticons/img"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="202"
+   kind="dir"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="smiley-cool.gif"
+   checksum="e26e97a318f82ec144b0818e5a8f8edb"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.824000Z"/>
+<entry
+   name="smiley-cry.gif"
+   checksum="e72bf995ceca9230273ed9909c5db9c8"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.827000Z"/>
+<entry
+   name="smiley-embarassed.gif"
+   checksum="d59171236e6b0b96091eeda1f7b57ce3"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.843000Z"/>
+<entry
+   name="smiley-foot-in-mouth.gif"
+   checksum="c12d9db6a14ad0b52f66f1e2cf2a38e7"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.837000Z"/>
+<entry
+   name="smiley-frown.gif"
+   checksum="59930208822fe755f651a67ef4b70530"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.821000Z"/>
+<entry
+   name="smiley-innocent.gif"
+   checksum="ec0477c8a206ff250782e40f9bae4b4c"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.805000Z"/>
+<entry
+   name="smiley-kiss.gif"
+   checksum="4ae8945f3960751b5d294f18242e144d"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.852000Z"/>
+<entry
+   name="smiley-laughing.gif"
+   checksum="c37f405db4e13cbebf24e745534687bf"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.833000Z"/>
+<entry
+   name="smiley-money-mouth.gif"
+   checksum="11c14bd1496afd0e21df115d25b68e96"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.814000Z"/>
+<entry
+   name="smiley-sealed.gif"
+   checksum="bb828cb46b377d1589927a02f8fd1762"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.830000Z"/>
+<entry
+   name="smiley-smile.gif"
+   checksum="2968a664098d9580079c66d628dad1a8"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.857000Z"/>
+<entry
+   name="smiley-surprised.gif"
+   checksum="2e136ebd637bf3e6c9fc6bdc20cbe73e"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.810000Z"/>
+<entry
+   name="smiley-tongue-out.gif"
+   checksum="5ec3bb4781c8e43a51d3a1a948b98fc0"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.846000Z"/>
+<entry
+   name="smiley-undecided.gif"
+   checksum="3c0c011d16b1a2331385ed97e160a42a"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.817000Z"/>
+<entry
+   name="smiley-wink.gif"
+   checksum="897275ac7d07032b4d93fb83a0d2a41b"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.849000Z"/>
+<entry
+   name="smiley-yell.gif"
+   checksum="19bb8ebfe3c2f5ef3ffb9aa4a027900d"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:00.840000Z"/>
+</wc-entries>

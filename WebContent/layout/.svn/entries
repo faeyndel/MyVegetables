@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/layout"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="211"
+   kind="dir"
+   committed-date="2013-05-23T07:18:15.893616Z"/>
+<entry
+   name="commenter.jsp"
+   checksum="ef76674f20df26e8d8c7e05e3fe5bed0"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="connexionLightBox.jsp"
+   checksum="5ee728fefcb41961c7a76b8dedc31f1b"
+   last-author="seiya"
+   committed-rev="207"
+   text-time="2013-05-22T19:28:42.368000Z"
+   kind="file"
+   committed-date="2013-05-22T19:28:42.368341Z"/>
+<entry
+   name="footer.jsp"
+   checksum="61e32a1fe93b5aab2ad1666038b52faa"
+   last-author="seiya"
+   committed-rev="211"
+   text-time="2013-05-23T07:18:15.893000Z"
+   kind="file"
+   committed-date="2013-05-23T07:18:15.893616Z"/>
+<entry
+   name="form_contact.html"
+   checksum="cda7b5131dcb9303fa261e8c19fdda74"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="form_contact.jsp"
+   checksum="a1b4218039d8ae13312e516304267925"
+   last-author="seiya"
+   committed-rev="187"
+   text-time="2013-05-17T21:44:10.803000Z"
+   kind="file"
+   committed-date="2013-05-17T21:44:10.803673Z"/>
+<entry
+   name="header.html"
+   checksum="ef201b6f041fdfab7ae93f856af3c2d9"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="header.jsp"
+   checksum="3b0675552157b78298586d551e02128c"
+   last-author="seiya"
+   committed-rev="211"
+   text-time="2013-05-23T07:18:15.893000Z"
+   kind="file"
+   committed-date="2013-05-23T07:18:15.893616Z"/>
+<entry
+   name="inforesto.jsp"
+   checksum="1188c6893a332ea69c7f32e6eb0127ed"
+   last-author="seiya"
+   committed-rev="197"
+   text-time="2013-05-19T21:19:04.294000Z"
+   kind="file"
+   committed-date="2013-05-19T21:19:04.294526Z"/>
+<entry
+   name="listcomment.jsp"
+   checksum="cccd4c1d9cf506a472de579b1e9fd578"
+   last-author="seiya"
+   committed-rev="211"
+   text-time="2013-05-23T07:18:15.893000Z"
+   kind="file"
+   committed-date="2013-05-23T07:18:15.893616Z"/>
+<entry
+   name="localisez_votre_restaurant.html"
+   checksum="86d9157bceeaa791feab79017ee46de5"
+   last-author="seiya"
+   committed-rev="187"
+   text-time="2013-05-17T21:44:10.803000Z"
+   kind="file"
+   committed-date="2013-05-17T21:44:10.803673Z"/>
+<entry
+   name="partenaires.html"
+   checksum="f3de6ba1cf288e155a1f4fab2391c628"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="recherche.html"
+   checksum="73fcc137aaeed064b1169d9b254d20d5"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="slide.html"
+   checksum="1ec7bc455692fbb9c579ee38a7b5f4a9"
+   last-author="seiya"
+   committed-rev="199"
+   text-time="2013-05-21T16:05:43.561000Z"
+   kind="file"
+   committed-date="2013-05-21T16:05:43.561672Z"/>
+</wc-entries>

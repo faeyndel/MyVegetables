@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/js/tinymce/js/tinymce/plugins/emoticons"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="202"
+   kind="dir"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="img"
+   kind="dir"/>
+<entry
+   name="plugin.min.js"
+   checksum="be49eac3231fbded63750da844ec9434"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+</wc-entries>

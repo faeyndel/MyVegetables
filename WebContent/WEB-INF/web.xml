@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <display-name>MyVegetables</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+   
+  <jsp-config>
+		<jsp-property-group>
+			<url-pattern>*.jsp</url-pattern>
+			<include-prelude>/WEB-INF/taglib.jsp</include-prelude>
+		</jsp-property-group>
+	</jsp-config>	
+	
+    <taglib>
+		<taglib-uri>http://java.sun.com/jstl/core</taglib-uri>
+		<taglib-location>/WEB-INF/tld/c.tld</taglib-location>
+	</taglib>
+	
+	<session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+	
+	<!-- Java Mail API -->
+    <dependency>
+	    <groupId>javax.mail</groupId>
+	    <artifactId>mail</artifactId>
+	    <version>1.4.3</version>
+    </dependency>
+	
+	<listener>
+       <listener-class>com.config.InitialisationDaoFactory</listener-class>
+   </listener>
+	
+	<servlet>
+		<servlet-class>com.servlet.ListUser</servlet-class>
+		<servlet-name>Liste</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.AddResto</servlet-class>
+		<servlet-name>AddResto</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.ListResto</servlet-class>
+		<servlet-name>ListResto</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.DetailResto</servlet-class>
+		<servlet-name>DetailResto</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.GetProfile</servlet-class>
+		<servlet-name>profileUserAccount</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.GetProfileResto</servlet-class>
+		<servlet-name>profileRestoAccount</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.EditerResto</servlet-class>
+		<servlet-name>EditerResto</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.UpdateResto</servlet-class>
+		<servlet-name>UpdateResto</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.UpdateUserInfo</servlet-class>
+		<servlet-name>UpdateUserInfo</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.UpdateUserInfoResto</servlet-class>
+		<servlet-name>UpdateUserInfoResto</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.AddRestoForm</servlet-class>
+		<servlet-name>AddRestoForm</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.AddUser</servlet-class>
+		<servlet-name>AddUser</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.Connexion</servlet-class>
+		<servlet-name>Connexion</servlet-name>
+	</servlet>
+	
+		<servlet>
+		<servlet-class>com.servlet.UpdateUserPw</servlet-class>
+		<servlet-name>UpdateUserPw</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.UpdateUserPwResto</servlet-class>
+		<servlet-name>UpdateUserPwResto</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.ListRestoUser</servlet-class>
+		<servlet-name>ListRestoUser</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.Unsubscribe</servlet-class>
+		<servlet-name>Unsubscribe</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.Search</servlet-class>
+		<servlet-name>Search</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.Deconnexion</servlet-class>
+		<servlet-name>Deconnexion</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.MonProfil</servlet-class>
+		<servlet-name>MonProfil</servlet-name>
+	</servlet>	
+
+	<servlet>
+		<servlet-class>com.servlet.SendingMail</servlet-class>
+		<servlet-name>SendingMail</servlet-name>
+	</servlet>	
+	
+
+	<servlet>
+		<servlet-class>com.servlet.AjoutCommentaire</servlet-class>
+		<servlet-name>AjoutCommentaire</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.ImageResto</servlet-class>
+		<servlet-name>ImageResto</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.AddImage</servlet-class>
+		<servlet-name>AddImage</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.servlet.MapsResto</servlet-class>
+		<servlet-name>MapsResto</servlet-name>
+	</servlet>	
+
+	<servlet-mapping>
+		<servlet-name>AddImage</servlet-name>
+		<url-pattern>/AddImage</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>ImageResto</servlet-name>
+		<url-pattern>/ImageResto</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AjoutCommentaire</servlet-name>
+		<url-pattern>/AjoutCommentaire</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>Deconnexion</servlet-name>
+		<url-pattern>/Deconnexion</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>SendingMail</servlet-name>
+		<url-pattern>/SendingMail</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>MonProfil</servlet-name>
+		<url-pattern>/MonProfil</url-pattern>
+	</servlet-mapping>	
+	
+	
+	<servlet-mapping>
+		<servlet-name>Search</servlet-name>
+		<url-pattern>/Search</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>Unsubscribe</servlet-name>
+		<url-pattern>/Unsubscribe</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AddRestoForm</servlet-name>
+		<url-pattern>/AddRestoForm</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>ListRestoUser</servlet-name>
+		<url-pattern>/ListRestoUser</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>UpdateUserPw</servlet-name>
+		<url-pattern>/UpdateUserPw</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>UpdateUserPwResto</servlet-name>
+		<url-pattern>/UpdateUserPwResto</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>UpdateUserInfo</servlet-name>
+		<url-pattern>/UpdateUserInfo</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>UpdateUserInfoResto</servlet-name>
+		<url-pattern>/UpdateUserInfoResto</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>profileRestoAccount</servlet-name>
+		<url-pattern>/profileRestoAccount</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>profileUserAccount</servlet-name>
+		<url-pattern>/profileUserAccount</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>Liste</servlet-name>
+		<url-pattern>/Liste</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AddResto</servlet-name>
+		<url-pattern>/AddResto</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>ListResto</servlet-name>
+		<url-pattern>/ListResto</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>DetailResto</servlet-name>
+		<url-pattern>/DetailResto</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>EditerResto</servlet-name>
+		<url-pattern>/EditerResto</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>UpdateResto</servlet-name>
+		<url-pattern>/UpdateResto</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AddUser</servlet-name>
+		<url-pattern>/AddUser</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>Connexion</servlet-name>
+		<url-pattern>/Connexion</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>MapsResto</servlet-name>
+		<url-pattern>/MapsResto</url-pattern>
+	</servlet-mapping>
+  
+</web-app>
+

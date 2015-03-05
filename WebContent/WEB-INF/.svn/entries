@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/WEB-INF"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="208"
+   kind="dir"
+   committed-date="2013-05-22T20:49:30.576383Z"/>
+<entry
+   name="accueilAccountResto.jsp"
+   checksum="85d63d3b0ce25b49f6694eed80678289"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="accueilUser.jsp"
+   checksum="82714571644939a66135d90adb894444"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="affichageListe.jsp"
+   checksum="1efa2ae3c3b3b8046bf6dd7faec4fe4f"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="affichageMessage.jsp"
+   checksum="9faea5200a1f53cf78790d40f48af147"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   name="profileRestoAccount.jsp"
+   checksum="22e0df44b56e0b59c9b674814b3b6f21"
+   last-author="seiya"
+   committed-rev="208"
+   text-time="2013-05-22T20:49:30.576000Z"
+   kind="file"
+   committed-date="2013-05-22T20:49:30.576383Z"/>
+<entry
+   name="profileRestoAccountList.jsp"
+   checksum="31108a829aee4343dc0650f20a3cf1b7"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="profileUserAccount.jsp"
+   checksum="c1b2fa775a4d35309d02f596d3283f55"
+   last-author="seiya"
+   committed-rev="208"
+   text-time="2013-05-22T20:49:30.576000Z"
+   kind="file"
+   committed-date="2013-05-22T20:49:30.576383Z"/>
+<entry
+   name="taglib.jsp"
+   checksum="f5729455bd174b898e7fd0623d76fe83"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="tld"
+   kind="dir"/>
+<entry
+   name="web.xml"
+   checksum="8f7a5e3e8c5fcd0f54b4c7baab2ec6ae"
+   last-author="svn_esgi2013_java"
+   committed-rev="189"
+   text-time="2013-05-18T20:07:48.292000Z"
+   kind="file"
+   committed-date="2013-05-18T20:07:48.292286Z"/>
+</wc-entries>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="svn_esgi2013_java"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/.settings"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="153"
+   kind="dir"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name=".jsdtscope"
+   checksum="2dfb4ce067f1529d1934162e0152d9b8"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="org.eclipse.jdt.core.prefs"
+   checksum="094d6cd9a1bf6c366ae7ebff73a7c0bf"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="org.eclipse.wst.common.component"
+   checksum="e424614ed10a54bdf4fa0a6635ff3ddf"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="org.eclipse.wst.common.project.facet.core.xml"
+   checksum="1a9e264788123e6b4efcb7432a6d46db"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="org.eclipse.wst.jsdt.ui.superType.container"
+   checksum="b27d1cf62dde4473bab7c433317bb0ce"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="org.eclipse.wst.jsdt.ui.superType.name"
+   checksum="c89686a387d2b12b3c729ce35a0bcb5b"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+</wc-entries>

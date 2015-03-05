@@ -1,0 +1,119 @@
+package com.model;
+
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+/**
+ * DAOFactory est la classe permettant de mapper notre bases de données 
+ * en objet
+ * @author team MyVegetable
+ * @version 1.0
+ * 
+ */
+
+public class DAOFactory {   
+    
+    /**
+     * URL de connection à la base 
+     */
+    private String              url;
+    /**
+     * Login de connexion
+     */
+    private String              username;
+    /**
+     * Mot de passe de connexion
+     */
+    private String              password;
+    //private String              encode;
+    //private String				jdbc;
+    
+
+    DAOFactory( String url, String username, String password, String jdbc, String jdbcutf8) {
+    	this.url = url;
+        this.username = username;
+        this.password = password;    	
+    }
+
+   
+    /**
+     * Méthode  chargée de récupérer  les informations de connexion  à  la base de
+     * données, charger le driver JDBC et retourner une instance de la Factory
+     * @return  l'instance de la classe de mappage 
+     * @throws DAOConfigurationException
+     */
+    public static DAOFactory getInstance() throws DAOConfigurationException {
+       // Properties properties = new Properties();
+        String url = "//localhost/myvegetable";
+        String driver="com.mysql.jdbc.Driver";
+        String nomUtilisateur="root";
+        String motDePasse="";
+        //String nomUtilisateur="root_superviseur";
+        //String motDePasse="admin";
+
+       /* String nomUtilisateur="myvege";
+        String motDePasse="nBHR8be5YVc2xdwh";*/
+        
+        String jdbc = "jdbc:mysql:"+url+"?user="+nomUtilisateur+"&password="+motDePasse;
+        String jdbcutf8 = "&useUnicode=true&characterEncoding=UTF-8";
+        
+        try {
+            Class.forName( driver );
+        } catch ( ClassNotFoundException e ) {
+            throw new DAOConfigurationException( "Le driver est introuvable dans le classpath.", e );
+        }
+
+        DAOFactory instance = new DAOFactory( url, nomUtilisateur, motDePasse, jdbc, jdbcutf8 );
+        return instance;
+    }
+
+    
+    /**
+     * Méthode chargée de fournir une connexion a la base de données
+     * @return
+     * @throws SQLException
+     */
+    Connection getConnection() throws SQLException {
+        return DriverManager.getConnection( "jdbc:mysql:" + url, username, password );
+        //return DriverManager.getConnection( jdbc+encode );
+     }    
+   
+    
+
+    /**
+     * Récupération du modèle utilisateur
+     * @return modèle utilisateur 
+     */
+    public UserDao getUserDao() {
+        return new UserDaoImpl( this );
+    }
+    
+    /**
+     * récupération du modèle restaurant
+     * @return modèle restaurant
+     */
+   
+    public RestoDao getRestoDao() {
+        return new RestoDaoImpl( this );
+    } 
+    
+    /**
+     * récupération du modèle commentaires
+     * @return modèle commentaires
+     */
+    
+    public CommentDao getCommentDao() {
+        return new CommentDaoImpl( this );
+    }
+    
+    
+    /**
+     * recupération du modèle contact
+     * @return  modèle contact
+     */
+    public ContactDaoImpl getContactDao() {
+        return new ContactDaoImpl( this );
+    }
+}

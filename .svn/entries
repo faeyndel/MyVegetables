@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="svn_esgi2013_java"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables"
+   committed-rev="215"
+   kind="dir"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name=".classpath"
+   checksum="867681c3c334d7573e017c33f0a513c8"
+   last-author="seiya"
+   text-time="2013-05-15T21:34:58.962000Z"
+   committed-rev="175"
+   kind="file"
+   committed-date="2013-05-15T21:34:58.962381Z"/>
+<entry
+   name=".project"
+   checksum="4df646d2cf7951d83dbe541be1628600"
+   last-author="svn_esgi2013_java"
+   text-time="2013-05-11T14:23:38.598000Z"
+   committed-rev="153"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   name="WebContent"
+   kind="dir"/>
+<entry
+   name="build"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>

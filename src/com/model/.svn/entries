@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="svn_esgi2013_java"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/src/com/model"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="215"
+   kind="dir"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="CommentDao.java"
+   checksum="cdd09ee14b9f1613af8edc26fbd7e42e"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="CommentDaoImpl.java"
+   checksum="14dcbb84592f48d44097e4b6197254e8"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="ContactDao.java"
+   checksum="96e2238fce4e5357b613d139241ad956"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="ContactDaoImpl.java"
+   checksum="177d5a5a6a7e52767631b026f4d42330"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="DAOConfigurationException.java"
+   checksum="fc1744803bb8240b257de23264622840"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="DAOException.java"
+   checksum="7d3032a1aa9bf67e74b2b61356919996"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="DAOFactory.java"
+   checksum="c890e2b69c3c3bbaccf67705df661187"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="DAOUtilitaire.java"
+   checksum="12bf799f1be841b1871591c56d5081c1"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="RestoDao.java"
+   checksum="251fc0f5343ce81203b977a19ae31dda"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="RestoDaoImpl.java"
+   checksum="101dfb4c859a4abd9b4fab05f3916fee"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="UserDao.java"
+   checksum="3c35f69d381610104b6c51525f9b867c"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+<entry
+   name="UserDaoImpl.java"
+   checksum="6ed3a4f9ee1169b637a1442440e0eec1"
+   last-author="svn_esgi2013_java"
+   committed-rev="215"
+   text-time="2013-05-23T18:32:29.964000Z"
+   kind="file"
+   committed-date="2013-05-23T18:32:29.964354Z"/>
+</wc-entries>

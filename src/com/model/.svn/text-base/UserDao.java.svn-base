@@ -1,0 +1,126 @@
+package com.model;
+
+
+import com.object.Resto_Account;
+import com.object.User;
+import com.model.DAOException;
+
+/**
+ * UserDao est la classe qui représente le modèle d'un utilisateur .
+ * C'est à dire une classe avec un ensemble de méthodes appliquées 
+ * aux utilisateurs  
+ * Dans cette classe, on definit toutes les méthodes sans les implémentées
+ * @author team MyVegetable
+ * @version 1.0
+ * 
+ */
+
+public interface UserDao {
+
+	//List<User> lister( ) throws DAOException;
+	/**
+	 * Cette fonction permettant d'ajouter les informations d'un utilisateur de type particulier
+	 * @param Nom
+	 * @param Prenom
+	 * @param login
+	 * @param phone
+	 * @param password
+	 * @param email
+	 * @return message de confirmation
+	 */
+	String addUser(String Nom, String Prenom, String login, String phone, String password, String email);
+	/**
+	 * ajout des informations d'un restaurateur
+	 * @param Nom
+	 * @param Prenom
+	 * @param login
+	 * @param phone
+	 * @param password
+	 * @param email
+	 * @return  message de confirmation
+	 */
+	String addUserResto(String Nom, String Prenom, String login, String phone, String password, String email);
+	
+	/**
+	 * mise à jour des informations d'un utilisateur  de type  particulier
+	 * @param id
+	 * @return message de confirmation
+	 * @throws DAOException
+	 */
+	
+	User editer(int id ) throws DAOException;
+	
+	/**
+	 * mise à jour des informations d'un utilisateur de type restaurant (restaurateur)
+	 * @param id
+	 * @return message de confirmation
+	 * @throws DAOException
+	 */
+	User editerResto(int id ) throws DAOException;
+	
+	/**
+	 * mise à jour du numéro de tél , email d'un utilisateur de type particulier
+	 * @param phone
+	 * @param email
+	 * @param lid
+	 * @return message de confirmation
+	 */
+	
+	String update_user(String phone, String email, int lid );
+	
+	/**
+	 * Mise à jour du mot de passe d'un utilisateur type particulier 
+	 * @param oldpassword
+	 * @param password
+	 * @param password2
+	 * @param lid
+	 * @return
+	 */
+	String update_user_pw(String oldpassword, String password, String password2, int lid );
+	
+	/**
+	 * mise à jour du numéro de tél , email d'un utilisateur de type restaurant
+	 * @param phone
+	 * @param email
+	 * @param lid
+	 * @return message de confirmation
+	 */
+	
+	String update_user_resto(String phone, String email, int lid );
+	
+	/**
+	 * Mise à jour du mot de passe d'un utilisateur type restaurant
+	 * @param oldpassword
+	 * @param password
+	 * @param password2
+	 * @param lid
+	 * @return message de confirmation
+	 */
+	String update_user_resto_pw(String oldpassword, String password, String password2, int lid );
+	
+	
+	/**
+	 * verification du mot de passe d'un utilisateur de type particulier
+	 * @param login
+	 * @param password
+	 * @return un objet utilisateur (user)
+	 */
+	User verifUser(String login,String password);	
+	
+	/**
+	 * verification du mot de passe d'un utilisateur de type restaurant
+	 * @param login
+	 * @param password
+	 * @return un objet restaurateur (resto_account)
+	 */
+	Resto_Account  verifaccountResto (String login,String password);
+	
+	
+	/**
+	 * desactivation d'un compte d'un utilisateur 
+	 * @param compte
+	 * @param lid
+	 * @return message de confirmation
+	 */	
+	String unsubscribe(String compte, int lid);
+}

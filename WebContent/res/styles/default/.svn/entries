@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/styles/default"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="212"
+   kind="dir"
+   committed-date="2013-05-23T11:18:57.202501Z"/>
+<entry
+   name="annuaire.css"
+   checksum="e5696bf872a25d5ca6c35216c8d027fa"
+   last-author="seiya"
+   committed-rev="187"
+   text-time="2013-05-17T21:44:10.803000Z"
+   kind="file"
+   committed-date="2013-05-17T21:44:10.803673Z"/>
+<entry
+   name="contact.css"
+   checksum="bff989c154131ed189eda9122a82b7c1"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="img"
+   kind="dir"/>
+<entry
+   name="style.css"
+   checksum="61470a78879d411d83451b3c68937d63"
+   last-author="seiya"
+   committed-rev="212"
+   text-time="2013-05-23T11:18:57.202000Z"
+   kind="file"
+   committed-date="2013-05-23T11:18:57.202501Z"/>
+</wc-entries>

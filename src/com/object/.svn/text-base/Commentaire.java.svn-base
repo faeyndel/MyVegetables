@@ -1,0 +1,189 @@
+package com.object;
+
+import java.util.Date;
+
+/**
+ * Commentaire est la classe répésentant les commentaires des utilisateurs 
+ * @author team MyVegetable
+ * @version 1.0
+ * 
+ */
+
+public class Commentaire {
+	
+	/**
+	 * id du commentaire
+	 */
+	private int id_comment;
+	
+	/**
+	 * id de l'utilisateur 
+	 */
+	private int id_user;
+	
+	/**
+	 *  commentaire
+	 */
+	private String commentaire;
+	
+	/**
+	 * Intitulé d'un commentaire
+	 */
+	private String titre_comment;
+	
+	/**
+	 * date d'enregistrement d'un commentaire 
+	 */
+	private Date  date_comment;
+	
+	/**
+	 *  Pseudo de l'utilisateur
+	 */
+	private String nickname;
+	
+	/**
+	 * Note choisit par l'utilisateur
+	 */
+	private int note;
+	
+	/**
+	 * Booleen qui permet de savoir si un commentaire est activé ou pas  
+	 */
+	private boolean annule;
+	
+	/* Setter */
+	
+	/**
+	 * Mise à jour de l'id commentaire
+	 * @param id_comment
+	 */
+	public void setId_comment( int id_comment ){
+		this.id_comment = id_comment;
+	}
+	
+	/**
+	 * Mise à jour de l'id utilisateur
+	 * @param id_user
+	 */
+	public void setId_user( int id_user ){
+		this.id_user = id_user;
+	}
+	
+	/**
+	 * Mise à jour de la note
+	 * @param note
+	 */
+	public void setNote( int note ){
+		this.note = note;
+	}
+	
+	/**
+	 * Mise à jour du pseudo
+	 * @param nickname
+	 */
+	public void setNickname( String nickname ){
+		this.nickname = nickname;
+	}
+	
+	/**
+	 * Mise à jour du commentaire 
+	 * @param commentaire
+	 */
+	public void setCommentaire( String commentaire ){
+		this.commentaire = commentaire;
+	}
+	
+	/**
+	 * Mise à jour du titre commentaire
+	 * @param titre_comment
+	 */
+	public void setTitre_comment( String titre_comment ){
+		this.titre_comment = titre_comment;
+	}
+	
+	/**
+	 * Mise à jour de la date d'enregistrement du commentaire
+	 * @param date_comment
+	 */
+	public void setDate_comment( Date date_comment ){
+		this.date_comment = date_comment;
+	}
+	
+	/**
+	 * Mise à jour du booleen 
+	 * @param annule
+	 */
+	public void setAnnule( boolean annule ){
+		this.annule = annule;
+	}
+	
+	/* Getter */
+	
+	/**
+	 * retourne  l'id du commentaire
+	 * @return l'id du commentaire
+	 */
+	public int getId_comment(){
+		return id_comment;
+	}
+	
+	/**
+	 * retourne  l'id de l'utilisateur
+	 * @return l'id de l'utilisateur 
+	 */
+	public int getId_user(){
+		return id_user;
+	}
+	
+	/**
+	 * retourne  le pseudo de l'utilisateur
+	 * @return le pseudo de l'utilisateur
+	 */
+	public String getNickname(){
+		return nickname;
+	}
+	
+	/**
+	 * retourne la note d'un utilisateur
+	 * @return la note d'un utilisateur
+	 */
+	public int getNote(){
+		return note;
+	}
+	
+	/**
+	 * retourne un commentaire
+	 * @return  un commentaire
+	 */
+	public String getCommentaire(){
+		return commentaire;
+	}
+	
+	/**
+	 * retourne le titre d'un commentaire
+	 * @return  le titre d'un commentaire
+	 */
+	public String getTitre_comment(){
+		return  titre_comment;
+	}
+	
+	/**
+	 * retourne la date d'enregistrement d'un commentaire
+	 * @return la date d'enregistrement d'un commentaire
+	 */
+	public Date getDate_comment(){
+		return date_comment;
+	}
+	
+	/**
+	 * retourne le booleen  d'activation ou de désactivatction
+	 * d'un commentaire 
+	 * @return  le booleen  d'activation ou de désactivatction
+	 *          d'un commentaire 
+	 */
+	public boolean setAnnule(){
+		return annule;
+	}
+	
+	
+}

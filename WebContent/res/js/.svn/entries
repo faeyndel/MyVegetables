@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/js"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="202"
+   kind="dir"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="jquery-ui.min.js"
+   checksum="428ce57f68905db8f028a9e095934018"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="jquery.min.js"
+   checksum="383771ef1692bfcc3f2b6917ca985778"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="s3Slider.js"
+   checksum="c5286d9d873b8552616a06ffbb78c738"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="tinymce"
+   kind="dir"/>
+</wc-entries>

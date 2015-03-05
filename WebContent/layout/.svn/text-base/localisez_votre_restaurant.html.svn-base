@@ -1,0 +1,16 @@
+<!-- Maps -->
+					<div id="map">
+						<h2 class="h2Center">Localisez votre restaurant sur la carte !</h2><br /><br />
+						<!-- Google map start -->
+						<div id="map_canvas" style="height:480px;width:700px;"></div>
+						<!-- Google map end -->
+						<ul>
+							<li onClick="relocalize(45.764185,4.835633)">Lyon</li>
+							<li onClick="relocalize(43.309691,5.371513)">Marseille</li>
+							<li onClick="relocalize(48.86223,2.351704)">Paris</li>
+							<li onClick="relocalize(48.58978,7.747307)">Strasbourg</li>
+							<li onClick="relocalize(50.633784,3.057232)">Lille</li>
+							<li onClick="relocalize(44.847107,-0.57827)">Bordeaux</li>
+						</ul>
+					</div>		
+					<img style="margin: 30px 0 10px;" src="res/styles/default/img/widget/pub.jpg" alt="D�couvrez l'Australie" title="D�couvrez l'Australie" />	

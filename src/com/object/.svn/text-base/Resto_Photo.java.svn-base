@@ -1,0 +1,120 @@
+package com.object;
+
+
+/**
+ * Resto_Photo  est la classe répésentant toutes les photos utilisées sur le site (images des annuaires, 
+ * images des partenaires, images slider 
+ * @author Team MyVegetable
+ * @version 1.0
+ */
+
+public class Resto_Photo {
+	
+	/**
+	 * id de la photo d'un restaurant
+	 */
+	private int id_resto_photo;
+	
+	/**
+	 * id du restaurant
+	 */
+	private int id_resto;
+	
+	/**
+	 * id de la photo d'un slider
+	 */
+	private String photo_slider;
+	
+	/**
+	 * id de la photo restaurant 
+	 */
+	private String photo_annuaire;
+	
+	/**
+	 * id de la photo d'un partenaire
+	 */
+	private String photo_partenaire;
+	
+	/* Setter */
+	
+	/**
+	 * Mise à jour de l'id e la photo d'un resto
+	 * @param id_resto_photo
+	 */
+	public void setId_resto_photo( int id_resto_photo ){
+		this.id_resto_photo = id_resto_photo;
+	}
+	
+	/**
+	 * Mise à jour de l'id resto
+	 * @param id_resto
+	 */
+	public void setId_resto( int id_resto ){
+		this.id_resto = id_resto;
+	}
+	
+	/**
+	 * mise à jour de la photo slider
+	 * @param photo_slider
+	 */
+	public void setPhoto_slider( String photo_slider ){
+		this.photo_slider = photo_slider;
+	}
+	
+	/**
+	 * Mise à jour de la photo d'un resto
+	 * @param photo_annuaire
+	 */
+	public void setPhoto_annuaire( String photo_annuaire ){
+		this.photo_annuaire = photo_annuaire;
+	}
+	
+	/**
+	 * Mise à jour des photos partenaires
+	 * @param photo_partenaire
+	 */
+	public void setPhoto_partenaire( String photo_partenaire ){
+		this.photo_partenaire = photo_partenaire;
+	}
+	
+	/* Getter */
+    /**
+     * retourne l'id de la photo du resto
+     * @return  l'id de la photo du resto
+     */
+	int getId_resto_photo(  ){
+		return id_resto_photo;
+	}
+	
+	/**
+     * retourne l'id resto
+     * @return  l'id resto
+     */
+	public int getId_resto(   ){
+		return id_resto;
+	}
+	
+	/**
+     * retourne l'id de la photo  du slider
+     * @return  l'id de la photo du slider
+     */
+	public String getPhoto_slider(   ){
+		return photo_slider;
+	}
+	
+	/**
+     * retourne l'id de la photo du restaurant
+     * @return  l'id de la photo du restaurant
+     */
+	public String getPhoto_annuaire(   ){
+		return photo_annuaire;
+	}
+	
+	/**
+     * retourne l'id de la photo des partenaires 
+     * @return  l'id de la photo des partenaires
+     */
+	public String getPhoto_partenaire(   ){
+		return  photo_partenaire;
+	}
+}

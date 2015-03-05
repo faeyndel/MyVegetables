@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/js/tinymce/js/tinymce/skins/lightgray/img"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="202"
+   kind="dir"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="anchor.gif"
+   checksum="abd3613571800fdcc891181d5f34f840"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:02.124000Z"/>
+<entry
+   name="loader.gif"
+   checksum="394bafc3cc4dfb3a0ee48c1f54669539"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:02.112000Z"/>
+<entry
+   name="object.gif"
+   checksum="f3726450d7457d750a2f4d9441c7ee20"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:02.116000Z"/>
+<entry
+   name="trans.gif"
+   checksum="12bf9e19374920de3146a64775f46a5e"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:02.120000Z"/>
+<entry
+   name="wline.gif"
+   checksum="c136c9f8e00718a98947a21d8adbcc56"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:02.107000Z"/>
+</wc-entries>

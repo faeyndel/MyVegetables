@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/js/tinymce/js/tinymce"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="202"
+   kind="dir"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="langs"
+   kind="dir"/>
+<entry
+   name="license.txt"
+   checksum="045d04e17422d99e338da75b9c749b7c"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="plugins"
+   kind="dir"/>
+<entry
+   name="skins"
+   kind="dir"/>
+<entry
+   name="themes"
+   kind="dir"/>
+<entry
+   name="tinymce.min.js"
+   checksum="e36ca4658457bbf5cadc2a9b7b86673d"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+</wc-entries>

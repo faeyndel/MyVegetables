@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res/js/tinymce/js/tinymce/skins/lightgray/fonts"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="202"
+   kind="dir"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="icomoon-small.eot"
+   checksum="fba6239827a68cb19472d2bebe35a367"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:01.977000Z"/>
+<entry
+   name="icomoon-small.svg"
+   checksum="25dfb4b1b6d19c0e8148d8152e302f18"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="icomoon-small.ttf"
+   checksum="bb2e99e3c13eadc094b8fd615c01d998"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:01.998000Z"/>
+<entry
+   name="icomoon-small.woff"
+   checksum="b407f4bab3555ac62cc1245758ef424d"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:02.009000Z"/>
+<entry
+   name="icomoon.eot"
+   checksum="29e31a89b83f7ba0ed6fec268d2ebfb3"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:02.014000Z"/>
+<entry
+   name="icomoon.svg"
+   checksum="de6a7392fd4f2b9603fd710f199244e6"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+<entry
+   name="icomoon.ttf"
+   checksum="4c53a29ac60a5c6561777a51fe2d0d40"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:01.982000Z"/>
+<entry
+   name="icomoon.woff"
+   checksum="86210f78fec6ddf0d22566b1c2ef41ad"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"
+   prop-time="2013-05-24T05:48:01.994000Z"/>
+<entry
+   name="readme.md"
+   checksum="7a0f64800cf38b2be8d3dc4540ec31dd"
+   last-author="seiya"
+   committed-rev="202"
+   text-time="2013-05-21T18:06:30.126000Z"
+   kind="file"
+   committed-date="2013-05-21T18:06:30.126742Z"/>
+</wc-entries>

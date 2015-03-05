@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="214"
+   kind="dir"
+   committed-date="2013-05-23T16:03:54.457522Z"/>
+<entry
+   name=".htaccess"
+   checksum="d6691013dbd8e690ba4e52926b5f8da9"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name=".project"
+   checksum="85137029b6b1c1ec2be5da07a8756229"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"/>
+<entry
+   name="ErreurConnexion.jsp"
+   checksum="243c264860d82473b18ec46e70fd420b"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="FAQ.jsp"
+   checksum="25d300b1dc2d00841b3efa90194bc169"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="META-INF"
+   kind="dir"/>
+<entry
+   name="On-parle-de-nous.jsp"
+   checksum="a1f54791c42f29ca6713bbcb5e6e1743"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="Qui-sommes-nous.jsp"
+   checksum="8058a9d506ce9c891b3dc62b3ca772b8"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="UpdateMessage.jsp"
+   checksum="03b15c5bdceb30ac94f3cbf1cd4d1138"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="WEB-INF"
+   kind="dir"/>
+<entry
+   name="admin.jsp"
+   checksum="b1e05c7fd18fc028616cf56b51cbadce"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="affichageMessage.jsp"
+   checksum="2155e7ef4093f202131a6ef07c2339ef"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="ajouterResto.jsp"
+   checksum="4923dc29456e49c1ecf0c508750042a4"
+   last-author="seiya"
+   committed-rev="208"
+   text-time="2013-05-22T20:49:30.576000Z"
+   kind="file"
+   committed-date="2013-05-22T20:49:30.576383Z"/>
+<entry
+   name="annuaire.jsp"
+   revision="217"
+   checksum="eccdcb32abf5a76415b286a6e04a8669"
+   last-author="seiya"
+   committed-rev="217"
+   text-time="2013-05-24T09:33:07.741000Z"
+   kind="file"
+   committed-date="2013-05-24T09:33:21.914000Z"/>
+<entry
+   name="contact.jsp"
+   checksum="f3c41ccacebf0fc4ea54c9c9d681fb33"
+   last-author="seiya"
+   committed-rev="214"
+   text-time="2013-05-23T16:03:54.457000Z"
+   kind="file"
+   committed-date="2013-05-23T16:03:54.457522Z"/>
+<entry
+   name="desinscription.jsp"
+   checksum="6215584a3078b71678d1378606984b17"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="detail.jsp"
+   checksum="25fb66cdac5f5f37994c65008ccd5129"
+   last-author="seiya"
+   committed-rev="214"
+   text-time="2013-05-23T16:03:54.457000Z"
+   kind="file"
+   committed-date="2013-05-23T16:03:54.457522Z"/>
+<entry
+   name="editerResto.jsp"
+   checksum="4a6daff0298b890ffc3fb31b3ebe9370"
+   last-author="seiya"
+   committed-rev="204"
+   text-time="2013-05-22T07:29:56.596000Z"
+   kind="file"
+   committed-date="2013-05-22T07:29:56.596936Z"/>
+<entry
+   name="exeptionsendmail.jsp"
+   checksum="967736064dc2f56a2d8cea1196e93a16"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="index.jsp"
+   checksum="38553b6856048e06d67f94ce8dd5cb7b"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="layout"
+   kind="dir"/>
+<entry
+   name="maps.jsp"
+   revision="216"
+   checksum="0b5212bc5a513b5bd4782e0b8d54af49"
+   last-author="seiya"
+   committed-rev="216"
+   text-time="2013-05-24T05:54:05.747000Z"
+   kind="file"
+   committed-date="2013-05-24T07:44:16.695000Z"/>
+<entry
+   name="mentionlegales.jsp"
+   checksum="bafa9286916eea328472e1eb57105ca6"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="plan-site.jsp"
+   checksum="e95191ac8f94bcfdbd71ba8a915ad896"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="presse-partenaire.jsp"
+   checksum="ed776c77c5d6719df41a108c20ec9c3e"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="profileRestoAccountImages.jsp"
+   checksum="a2cfaa169fc5ed61669ab1cd6f853eb6"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="profileRestoAccountList.jsp"
+   checksum="3b7a2b12a5e7c73a94ecd1152526f936"
+   last-author="seiya"
+   committed-rev="211"
+   text-time="2013-05-23T07:18:15.893000Z"
+   kind="file"
+   committed-date="2013-05-23T07:18:15.893616Z"/>
+<entry
+   name="recrutement.jsp"
+   checksum="1d5bdc894747782163ffc9760014e33d"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+<entry
+   name="res"
+   kind="dir"/>
+<entry
+   name="search.jsp"
+   checksum="6785aa044dc0835af6dfa8dd5e797ef2"
+   last-author="seiya"
+   committed-rev="213"
+   text-time="2013-05-23T15:55:28.014000Z"
+   kind="file"
+   committed-date="2013-05-23T15:55:28.014700Z"/>
+<entry
+   name="user.jsp"
+   checksum="cbf832c760a96245e8d1656104060af9"
+   last-author="seiya"
+   committed-rev="200"
+   text-time="2013-05-21T16:53:11.002000Z"
+   kind="file"
+   committed-date="2013-05-21T16:53:11.002716Z"/>
+</wc-entries>

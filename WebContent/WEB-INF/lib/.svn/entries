@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/WEB-INF/lib"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="175"
+   kind="dir"
+   committed-date="2013-05-15T21:34:58.962381Z"/>
+<entry
+   name="activation-10.3.jar"
+   checksum="a980c7ac3eab9fcbcbc107b8dd595878"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:56.921000Z"/>
+<entry
+   name="commons-fileupload-1.3.jar"
+   checksum="fd24e83d8f62085f84c0622087872f36"
+   last-author="seiya"
+   committed-rev="160"
+   text-time="2013-05-11T17:00:36.408000Z"
+   kind="file"
+   committed-date="2013-05-11T17:00:36.408382Z"
+   prop-time="2013-05-24T05:47:58.284000Z"/>
+<entry
+   name="commons-io-2.2.jar"
+   checksum="6ad49e3e16c2342e9ee9599ce04775e6"
+   last-author="seiya"
+   committed-rev="166"
+   text-time="2013-05-11T20:43:28.340000Z"
+   kind="file"
+   committed-date="2013-05-11T20:43:28.340997Z"
+   prop-time="2013-05-24T05:47:56.863000Z"/>
+<entry
+   name="commons-io-2.4.jar"
+   checksum="7f97854dc04c119d461fed14f5d8bb96"
+   last-author="seiya"
+   committed-rev="166"
+   text-time="2013-05-11T20:43:28.340000Z"
+   kind="file"
+   committed-date="2013-05-11T20:43:28.340997Z"
+   prop-time="2013-05-24T05:47:57.104000Z"/>
+<entry
+   name="dsn.jar"
+   checksum="e3107f2bfa416ef461f99f91bb1da59a"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:57.660000Z"/>
+<entry
+   name="gimap.jar"
+   checksum="3cf07c51f00e80ae5f816015bb6a081f"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:58.295000Z"/>
+<entry
+   name="imap.jar"
+   checksum="49bebd31cbad749b9d90d727faa24377"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:57.805000Z"/>
+<entry
+   name="jackson-core-2.1.4.jar"
+   checksum="0aeb4800fff8a5c6711c2b8927485631"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:56.679000Z"/>
+<entry
+   name="jackson-mapper-asl-1.5.0.jar"
+   checksum="1ca956a7b996ee38f08288af11617540"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:58.169000Z"/>
+<entry
+   name="java-json.jar"
+   checksum="7867121b198a1c44fd4f8189b60efb91"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:58.236000Z"/>
+<entry
+   name="jstl.jar"
+   checksum="c2ced5f8505fe9d1cae685201e9cba07"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:56.017000Z"/>
+<entry
+   name="mail.jar"
+   checksum="c1bf90bb60d451ac126c3f937275270f"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:57.599000Z"/>
+<entry
+   name="mailapi.jar"
+   checksum="cdbf3dfec525b27faefc8755bb3d35b7"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:56.285000Z"/>
+<entry
+   name="pop3.jar"
+   checksum="512ac9ba092b95c9600344c812a01857"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:57.146000Z"/>
+<entry
+   name="smtp.jar"
+   checksum="bdf79a54aa6152a08101b5b371d20974"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:57.642000Z"/>
+<entry
+   name="spring-context-support-3.2.2.RELEASE.jar"
+   checksum="27d0d11d7bfd6404a4a352898778f648"
+   last-author="seiya"
+   committed-rev="175"
+   text-time="2013-05-15T21:34:58.962000Z"
+   kind="file"
+   committed-date="2013-05-15T21:34:58.962381Z"
+   prop-time="2013-05-24T05:47:56.448000Z"/>
+<entry
+   name="standard.jar"
+   checksum="65351d0487ad57edda9171bb3b46b98c"
+   last-author="svn_esgi2013_java"
+   committed-rev="153"
+   text-time="2013-05-11T14:23:38.598000Z"
+   kind="file"
+   committed-date="2013-05-11T14:23:38.598276Z"
+   prop-time="2013-05-24T05:47:58.589000Z"/>
+</wc-entries>

@@ -1,0 +1,175 @@
+package com.object;
+
+
+/**
+ * Resto_Account  est la classe répésentant les comptes des restaurateurs
+ * ce sont des utilisateurs de type restaurant
+ * @author Team MyVegetable
+ * @version 1.0
+ */
+
+// Classe des Comptes-restaurants
+
+public class Resto_Account {
+	
+	/**
+	 * id d'un restaurateur 	
+	 */
+	private int id_resto_account;
+	
+	/**
+	 * login du  restauteur 
+	 */
+	private String login;
+	
+	/**
+	 * email du restaurateur
+	 */
+	private String email;
+	
+	/**
+	 * mot de passe du restaurateur 
+	 */
+	private String password;
+	
+	/**
+	 * nom du restaurateur 
+	 */
+	private String Nom;
+	
+	/**
+	 *  prénom du restaurateur 
+	 */
+	private String Prenom;
+	
+	/**
+	 * numéro de téléphone d'un restaurateur 
+	 */
+	private String phone;
+	
+	/**
+	 * retourne le nom d'un restaurateur
+	 * @return  le nom
+	 */
+	
+	public String getNom() {
+		return Nom;
+	}
+	
+	/**
+	 * Mise à jour du nom du restaurateur 
+	 * @param nom
+	 */
+	public void setNom(String nom) {
+		Nom = nom;
+	}
+	
+	
+	/**
+	 * retourne le prenom d'un restaurateur
+	 * @return  prenom
+	 */
+	
+	public String getPrenom() {
+		return Prenom;
+	}
+	
+	/**
+	 * Mise à jour du prenom du restaurateur 
+	 * @param prenom
+	 */
+	public void setPrenom(String prenom) {
+		Prenom = prenom;
+	}
+	
+	
+	
+	/**
+	 * retourne le numéro de téléphone d'un restaurateur
+	 * @return  le numéro de téléphone
+	 */
+	
+	public String getPhone() {
+		return phone;
+	}
+	
+	/**
+	 * Mise à jour du numéro de téléphone d'un restaurateur 
+	 * @param phone
+	 */
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
+	
+	
+	/**
+	 * retourne l'id du restaurateur 
+	 * @return  l'id du restaurateur
+	 */
+	
+	public int getId_resto_account() {
+		return id_resto_account;
+	}
+	
+	/**
+	 * Mise à jour de l'id du restaurateur 
+	 * @param id_resto_account
+	 */
+	public void setId_resto_account(int id_resto_account) {
+		this.id_resto_account = id_resto_account;
+	}
+	
+	
+	/**
+	 * retourne le login d'un restaurateur 
+	 * @return  le login
+	 */
+	
+	
+	public String getLogin() {
+		return login;
+	}
+	
+	/**
+	 * Mise à jour du login du restaurateur 
+	 * @param login
+	 */
+	public void setLogin(String login) {
+		this.login = login;
+	}
+	
+	
+	/**
+	 * retourne l'email d'un restaurateur 
+	 * @return   l'email
+	 */
+	
+	public String getEmail() {
+		return email;
+	}
+	
+	/**
+	 * Mise à jour de l'email
+	 * @param email
+	 */
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	
+	
+	/**
+	 * retourne le mot de passe du  restaurateur 
+	 * @return	 */
+	
+	public String getPassword() {
+		return password;
+	}
+	
+	/**
+	 * Mise à jour du mot de passe 
+	 * @param password
+	 */
+	public void setPassword(String password) {
+		this.password = password;
+	}
+}

@@ -1,0 +1,31 @@
+package com.model;
+
+import java.io.UnsupportedEncodingException;
+
+/**
+ * ContactDao est la classe qui représente le modèle contact. 
+ * Dans cette classe, on defintit toutes les méthodes appliquables 
+ * sur un formulaire de contact sans les implémentées
+ * @author team MyVegetable
+ * @version 1.0
+ * 
+ */
+
+
+public interface ContactDao {
+	/**
+	 * Cette méthode permet d'envoyer un email et retourne un booleen qui 
+	 * permet de savoir si le message est bien envoyé ou pas.
+	 * @param Sender
+	 * @param Pseudo
+	 * @param Subject
+	 * @param MailContent
+	 * @param Reciever
+	 * @param password
+	 * @param Charset
+	 * @param ContentType
+	 * @return message de confirmation d'envoi de mail
+	 * @throws UnsupportedEncodingException
+	 */
+	public boolean sendMail(String Sender, String Pseudo, String Subject, String MailContent, final String Reciever, final String password, final String Charset, final String ContentType) throws UnsupportedEncodingException;
+}

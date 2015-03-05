@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://sd-23559.dedibox.fr/projets"
+   name=""
+   revision="215"
+   last-author="seiya"
+   url="http://sd-23559.dedibox.fr/projets/myvegetable/MyVegetables/WebContent/res"
+   uuid="bb048be7-72c3-4306-8e00-221817d8bcfd"
+   committed-rev="212"
+   kind="dir"
+   committed-date="2013-05-23T11:18:57.202501Z"/>
+<entry
+   name="js"
+   kind="dir"/>
+<entry
+   name="styles"
+   kind="dir"/>
+</wc-entries>

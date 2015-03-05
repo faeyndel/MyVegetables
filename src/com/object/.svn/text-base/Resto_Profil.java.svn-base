@@ -1,0 +1,466 @@
+package com.object;
+
+/**
+ * Resto_Profil est la classe répésentant les restaurants végétariens
+ * @author Team MyVegetable
+ * @version 1.0
+ */
+
+
+public class Resto_Profil {
+	
+	/**
+	 * id du restaurant
+	 */
+	private int  id_resto;
+	/**
+	 *  id d'un restaurateur 
+	 */
+	private int  id_resto_account;	
+	
+	/**
+	 * Nom du restaurant
+	 */
+	private String nom; 
+	
+	/**
+	 * Adresse du restaurant
+	 */
+	private  String adresse;
+	
+	/**
+	 * Ville du restaurant
+	 */
+	private String  ville;
+	
+	/**
+	 * Code postale du restaurant
+	 */
+	private int   code_postal; 
+	
+	/**
+	 * Numéro de telephone du restaurant
+	 */
+	private  String telephone;
+	
+	/**
+	 * coordonnée géographique du restaurant-latitude
+	 */
+    private String lattitude;
+    
+    /**
+     * Horaire d'ouverture du restaurant
+     */
+    private String horaire; 
+    
+    /**
+     * coordonnée géographique du restaurant-longitude
+     */
+	private String  longitude; 
+	
+	/**
+	 * Url du site web du restaurant
+	 */
+	private String  url;
+	
+	/**
+	 * Adresse mail du restaurant
+	 */
+	private String  courriel;
+	
+	/**
+	 * Description du restaurant
+	 */
+	private String description;
+	
+	/**
+	 * Slogan du restaurant
+	 */
+	private String  slogan; 
+	
+	/**
+	 *  Note du restaurant
+	 */
+	private int  note; 
+	
+	/**
+	 * Prix moyen des menus 
+	 */
+	private int average_price;
+	
+	/**
+	 * Booleen qui permet d'activer et de désactiver un restaurant
+	 */
+    private boolean  annule;
+    
+    /**
+     * Numéro de siren d'un restaurant
+     */
+    private String siren ;
+    
+    /**
+     *   Les menus d'un restaurant
+     */
+    private String menu ;
+    
+    /**
+     * Les Images du restaurants
+     */
+    private String photo;
+    
+    
+    
+    // Les Setters  
+    
+    /**
+     * Retourne une photo
+     * @return une photo
+     */
+    public String getPhoto() {
+		return photo;
+	}
+    
+    /**
+     * Mise à jour d'une photo
+     * @param photo
+     */
+	public void setPhoto(String photo) {
+		this.photo = photo;
+	}
+	
+	/**
+	 * Retourne l'id du restaurateur
+	 * @return  l'id du restaurateur
+	 */
+	public int getId_resto_account() {
+		return id_resto_account;
+	}
+	
+	/**
+	 * Mise à jour de l'id du restaurateur
+	 * @param id_resto_account
+	 */
+	public void setId_resto_account(int id_resto_account) {
+		this.id_resto_account = id_resto_account;
+	}
+    
+	
+	/**
+	 * retourne le numéro de siren
+	 * @return  le numero de siren
+	 */
+    
+    public String getSiren() {
+		return siren;
+	}
+    
+    /**
+     * Mise à jour du numero de siren
+     * @param siren
+     */
+	public void setSiren(String siren) {
+		this.siren = siren;
+	}
+	
+	/**
+	 * retourne les horaires d'ouvertures du restaurant
+	 * @return  les horaires d'ouvertures du restaurant
+	 */
+	
+	public String getHoraire() {
+		return horaire;
+	}
+	
+	/**
+	 * Mise à jour des horaires d'ouvertures du restaurant
+	 * @param horaire
+	 */
+	public void setHoraire(String horaire) {
+		this.horaire = horaire;
+	}
+    
+	/**
+	 * retourne l'email du restaurant	
+	 * @return  l'email du restaurant
+	 */
+	
+    
+    public String getCourriel() {
+		return courriel;
+	}
+    
+    /**
+     * Mise à jour de l'email du restaurant
+     * @param courriel
+     */
+	public void setCourriel(String courriel) {
+		this.courriel = courriel;
+	}
+	
+	/**
+	 * retourne l'id du restaurant
+	 * @return  l'id du restaurant
+	 */
+	
+	public int getId_resto() {
+		return id_resto;
+	}
+	
+	/**
+	 * Mise à jour de l'id du restaurant
+	 * @param id_resto
+	 */
+	public void setId_resto(int id_resto) {
+		this.id_resto = id_resto;
+	}
+	
+	/**
+	 * retourne le nom du restaurant 
+	 * @return  le nom du restaurant
+	 */
+	
+	public String getNom() {
+		return nom;
+	}
+	
+	/**
+	 * Mise à jour du nom du restaurant
+	 * @param nom
+	 */
+	public void setNom(String nom) {
+		this.nom = nom;
+	}
+	
+	
+	/**
+	 * retourne l'adresse du restaurant
+	 * @return  l'adresse du restaurant
+	 */
+	
+	public String getAdresse() {
+		return adresse;
+	}
+	
+	/**
+	 * Mise à jour de l'adresse du restaurant
+	 * @param adresse
+	 */
+	public void setAdresse(String adresse) {
+		this.adresse = adresse;
+	}
+	
+	
+	/**
+	 * retourne la ville où se trouve du restaurant
+	 * @return  la ville 
+	 */
+	
+	public String getVille() {
+		return ville;
+	}
+	
+	/**
+	 * Mise à jour de la ville
+	 * @param ville
+	 */
+	public void setVille(String ville) {
+		this.ville = ville;
+	}
+	
+	
+	/**
+	 * retourne le code postale du restaurant
+	 * @return le code postale du restaurant
+	 */
+	
+	public int getCode_postal() {
+		return code_postal;
+	}
+	
+	/**
+	 * Mise à jour du code postale du restaurant
+	 * @param code_postal
+	 */
+	public void setCode_postal(int code_postal) {
+		this.code_postal = code_postal;
+	}
+	
+	
+	/**
+	 * retourne le numero de telephone du restaurant
+	 * @return  numero de telephone
+	 */
+	
+	public String getTelephone() {
+		return telephone;
+	}
+	
+	/**
+	 * Mise à jour du numero de telephone 
+	 * @param telephone
+	 */
+	public void setTelephone(String telephone) {
+		this.telephone = telephone;
+	}
+	
+	
+	/**
+	 * retourne la coordonnée géographique de latitude 
+	 * @return   la latitude 
+	 */
+	
+	public String getLattitude() {
+		return lattitude;
+	}
+	
+	/**
+	 * Mise à jour de la coordonnée géographique de latitude 
+	 * @param lattitude
+	 */
+	public void setLattitude(String lattitude) {
+		this.lattitude = lattitude;
+	}
+	
+	
+	/**
+	 *  retourne la coordonnée géographique de longitude
+	 * @return   longitude
+	 */
+	
+	public String getLongitude() {
+		return longitude;
+	}
+	
+	/**
+	 * Mise à jour de la coordonnée géographique de longitude
+	 * @param longitude
+	 */
+	public void setLongitude(String longitude) {
+		this.longitude = longitude;
+	}
+	
+	
+	
+	/**
+	 * retourne l'url de site web du restaurant
+	 * @return  l'url 
+	 */
+	public String getUrl() {
+		return url;
+	}
+	
+	/**
+	 * Mise à jour de l'url de site web du restaurant
+	 * @param url
+	 */
+	public void setUrl(String url) {
+		this.url = url;
+	}
+	
+	
+	/**
+	 * retourne   la description du restaurant
+	 * @return  description
+	 */
+	
+	public String getDescription() {
+		return description;
+	}
+	
+	/**
+	 * Mise à jour de la description d'un restaurant
+	 * @param description
+	 */
+	public void setDescription(String description) {
+		this.description = description;
+	}
+	
+	/**
+	 * retourne le slogan d'un restaurant
+	 * @return  le slogan
+	 */
+	
+	public String getSlogan() {
+		return slogan;
+	}
+	
+	/**
+	 * Mise à jour du slogan d'un restaurant
+	 * @param slogan
+	 */
+	public void setSlogan(String slogan) {
+		this.slogan = slogan;
+	}
+	
+	/**
+	 * retourne les menus d'un restaurants
+	 * @return  les menus
+	 */
+	
+	public String getMenu() {
+		return menu;
+	}
+	
+	/**
+	 * Mise à jour de menu d'un restaurant
+	 * @param menu
+	 */
+	public void setMenu(String menu) {
+		this.menu = menu;
+	}
+	
+	
+	/**
+	 * retourne la note d'un restaurant
+	 * @return
+	 */
+	
+	public int getNote() {
+		return note;
+	}
+	
+	/**
+	 * Mise à jour de la note d'un restaurant
+	 * @param note
+	 */
+	public void setNote(int note) {
+		this.note = note;
+	}
+	
+	
+	/**
+	 * retourne le prix moyen d'un restaurant
+	 * @return  le prix moyen
+	 */
+	
+	public int getAverage_price() {
+		return average_price;
+	}
+	
+	/**
+	 * Mise à jour du prix moyen d'un restaurant
+	 * @param average_price
+	 */
+	public void setAverage_price(int average_price) {
+		this.average_price = average_price;
+	}
+	
+	
+	/**
+	 *  retourne le booleen d'activation ou de désactivation d'un restaurant
+	 * @return
+	 */
+	
+	public boolean isAnnule() {
+		return annule;
+	}
+	
+	/**
+	 * Mise à jour du booleen d'activation ou de désactivation d'un restaurant
+	 * @param annule
+	 */
+	public void setAnnule(boolean annule) {
+		this.annule = annule;
+	}  
+
+}

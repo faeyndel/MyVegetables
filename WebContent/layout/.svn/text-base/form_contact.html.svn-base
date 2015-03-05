@@ -1,0 +1,20 @@
+<!-- Slider -->
+				<div id="contact">
+					<br>
+					<span class="contact_title">Une question ? Une suggestion ?</span><br>
+					Nous sommes à l'écoute! Merci de nous aider à toujours nous améliorer.<br>
+					<br>
+					<form method="post" action="">
+						<label for="pseudo">Pseudo :</label><br>
+						<input type="text" name="pseudo" id="pseudo" size="35"><br>
+						<br>
+						<label for="email">Adresse e-mail :</label><br>
+						<input type="email" name="email" id="email" size="45"><br>
+						<br>
+						<label for="suggestion">Suggestion :</label><br>
+						<textarea name="suggestion" id="suggestion" cols="55" rows="5"></textarea><br>
+						<br>
+						<input type="submit" class="submit" value="ENVOYER">
+					</form><br>
+					<br>
+				</div>
